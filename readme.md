@@ -1,3 +1,3 @@
-## Exarch
+## @ftbl/email
 
 Email sender
