@@ -1,5 +1,5 @@
 {
-  "name": "@ftbl/email",
+  "name": "@recipher/email",
   "version": "1.1.1",
   "description": "Email sender",
   "main": "node index",
@@ -17,17 +17,17 @@
     "url": "git@github.com:projectftbl/email.git"
   },
   "dependencies": {
-    "@ftbl/configuration": "^1.0.0",
-    "@ftbl/log": "^1.0.0",
-    "@ftbl/templates": "^1.0.0",
-    "@ftbl/utility": "^1.0.0",
+    "@recipher/configuration": "^1.0.0",
+    "@recipher/log": "^1.0.0",
+    "@recipher/templates": "^1.0.0",
+    "@recipher/utility": "^1.0.0",
     "bluebird": "^2.10.0",
     "lodash": "^3.10.1",
     "mandrill-api": "^1.0.45",
     "sendgrid": "^2.0.0"
   },
   "devDependencies": {
-    "@ftbl/gulp": "^1.0.7",
+    "@recipher/gulp": "^1.0.7",
     "chai": "^3.2.0",
     "gulp": "^3.9.0",
     "mocha": "^2.2.5"

@@ -1,3 +1,3 @@
-## @ftbl/email
+## @recipher/email
 
-Email sender
+Email senders.
